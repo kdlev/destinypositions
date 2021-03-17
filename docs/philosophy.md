@@ -11,7 +11,7 @@ Many on the far right express a great concern over protecting the demographic ma
 
 I believe that this endeavor is futile for several reasons:
 - I reject the notion that there is a consistent and coherent definition of "American values."
-    - e.g. City-dwellers from San Francisco are going to have a very different set of "values" compared to rural inhabitants of midwestern states.
+    - e.g. City dwellers from San Francisco are going to have a very different set of "values" compared to rural inhabitants of midwestern states.
 - I don't believe there is any way for an individual community to control who is allowed to immigrate there without it violating the rights and interests of other states.
     - Immigration policy is set for the benefit of the nation at the federal level&mdash;states exercising local immigration policy would run counter to the rest of the state's rights to determine federal immigration policy.
 - I don't believe a group of people have a right to indefinitely maintain their representation irrespective of immigrants (from other states, or countries).
@@ -22,7 +22,7 @@ I am generally opposed to violence as I don't believe it is an effective way to 
 
 ### Defense of Property
 
-I believe that people have a right to defend their property insofar as three important criteria are met:
+I believe that people have a right to defend their property given three important criteria:
 1. You legally possess the property in a way that your state and community recognizes your possession.
 2. You have reasonably exhausted non-violent options to protect your property.
 3. The other person is effectively "on notice" and understands they exist in an environment where another person will protect their property.
